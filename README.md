@@ -10,4 +10,4 @@
 ### Week 2   
 * [버그 수정](https://github.com/minchjung/SpringStudy/wiki/%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%95)    
 * [버그 수정2](https://github.com/minchjung/SpringStudy/wiki/%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%9502)   
-* [버그 수정2](https://github.com/minchjung/SpringStudy/wiki/%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%9503)   
+* [버그 수정3](https://github.com/minchjung/SpringStudy/wiki/%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%9503)   
