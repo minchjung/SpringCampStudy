@@ -12,4 +12,5 @@
 * [버그 수정2](https://github.com/minchjung/SpringStudy/wiki/%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%9502)   
 * [버그 수정3](https://github.com/minchjung/SpringStudy/wiki/%EB%B2%84%EA%B7%B8-%EC%88%98%EC%A0%9503)   
 ### Week 3    
-*[엔티티 추가 조회 ](https://github.com/minchjung/SpringStudy/wiki/Entity-%EC%A1%B0%ED%9A%8C-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80)  
+* [엔티티 추가 조회 ](https://github.com/minchjung/SpringStudy/wiki/Entity-%EC%A1%B0%ED%9A%8C-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80)  
+* [ResponseEntity-SubTask 발표자료](https://github.com/minchjung/SpringStudy/wiki/Entity-%EC%A1%B0%ED%9A%8C-%EA%B8%B0%EB%8A%A5-%EC%B6%94%EA%B0%80)    
